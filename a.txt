@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+fegegerbrgsfsfvvdasagvdsbdfndfdf
+=======
+a
+>>>>>>> parent of ac84f9f... nb
